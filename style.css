@@ -1,0 +1,8 @@
+header{
+    border: black 5px solid;
+    background-color: yellow;
+    flex-direction: row;
+}
+main{
+    border: black 5px solid;
+}
